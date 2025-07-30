@@ -1,4 +1,3 @@
-<!-- GitHub Profile README.md -->
 
 <h1 align="center">Hey there! I'm Almas Javed 🚀</h1>
 
@@ -46,16 +45,13 @@ I'm working on a **Task Outsourcing Website** that connects people needing erran
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 📧 Email: yourname@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: alphathefinisher@gmail.com
 
 ---
 
 ## ✨ Fun Quote
 
-> “Any sufficiently advanced frontend is indistinguishable from magic.” 🪄
+> “Any sufficiently advanced frontend is indistinguishable from magic.”
 
 ---
 
