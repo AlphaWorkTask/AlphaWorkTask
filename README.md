@@ -14,16 +14,14 @@ Hi! I'm a creative and curious **Frontend Web Developer** passionate about build
 I believe in clean code, great UX, and empowering users through tech. 🚀
 
 ---
-
+<img align="right" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 ## 🧰 Tech Toolbox
 
 Here's what I use to build awesome things:
-
 - 💻 HTML, CSS, JavaScript  
 - 🎨 Tailwind CSS, Bootstrap  
 - 🧠 Svelte JS, Storybook  
 - 🌱 Vue JS *(just a little, but growing!)*
-
 ---
 
 ## 🌟 Current Project
